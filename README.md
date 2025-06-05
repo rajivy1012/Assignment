@@ -1,7 +1,3 @@
-# 🚀 AI Assignment – Vijayi WFH Technologies Pvt Ltd
-
-**Author:** Rajiv Yadav  
-**Submission Month:** May–June 2025
 
 ## 📌 Overview
 
